@@ -1,2 +1,4 @@
 Stack: 
-- HTML and Css
+
+- HTML.
+- Css.
